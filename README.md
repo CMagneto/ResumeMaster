@@ -1,9 +1,9 @@
 # ResumeMaster
-# John Doe
+# Damon Campbell
 
-_Aspiring Data Scientist | Python Developer | Open Source Enthusiast_
+_Aspiring Cybersecurity expert| Python Developer | Open Source Enthusiast_
 
-[Email](mailto:john.doe@example.com) | [Portfolio](https://johndoe.com) | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe)
+[Email](mailto:damaca@umich.edu) | [Portfolio](https://johndoe.com) | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe)
 
 ---
 
@@ -57,8 +57,8 @@ Example State University *(2014 - 2018)*
 
 ## Certifications
 
-- Certified TensorFlow Developer  
-- AWS Certified Solutions Architect  
+- Currently pursuing A+  
+- Currently pursuing Security+  
 
 ---
 
