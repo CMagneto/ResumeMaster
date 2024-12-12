@@ -23,11 +23,6 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 
 ## Experience
 
-### **Data Scientist**  
-**Tech Solutions Inc.** *(2021 - Present)*  
-- Developed predictive models that increased sales forecasting accuracy by 25%.  
-- Automated ETL pipelines to streamline data processing, reducing manual work by 40%.  
-- Presented data-driven insights to stakeholders, improving decision-making efficiency.
 
 ### **Undergraduate Research Assistant in UROP program at the University of Michigan- Flint**
 - July 2024- August 2024 and September 2024 to current
@@ -47,12 +42,27 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 - ●	Develops own work schedule and sets hourly and daily financial goals.
 - ●	Focuses on creating a positive experience for users of the delivery apps, restaurants, and store vendors by providing excellent customer service and troubleshooting app problems such as GPS address problems or incorrect orders.
  
+### **Full Time Care Giver**	###			  					8/2001-8/2022
+- ●	Provided round-the-clock care to a severely physically disabled relative with emotional and mental challenges.
+
+### **Office Depot**
+- Ann Arbor, MI		12/2008-12/2009
+-Tech Sales Department Associate
+- ●	Specialized in selling Product Protection Plans and high-margin tech services, including routers, laptops, desktops, printers, and other computer-related items.
+- ●	Provided expert guidance and answered technical inquiries regarding various technologies.
+- ●	Consistently led the store in sales of Performance Protection Plans and Technology Services.
+- ●	Generated approximately $9,900 in sales of protection plans and technology services, contributing over 20% to the total store sales in this category as of 11/28/09.
+- ●	Recognized with the Employee of the Month and Bravo awards for outstanding performance.
+ 
+### **Meijer’s**
+- Ann Arbor, MI		10/2008-3/2009
+- Third Shift Cashier
+- ●	Managed a high volume of customers in traditional checkout and U-scan lanes, while vigilantly monitoring for theft and walk-offs.
+- ●	Utilized authority to resolve customer issues, including adjusting prices for incorrectly marked items.
+- ●	Completed various third-shift responsibilities, such as collecting carts from the parking lot, maintaining checkout lanes and critical areas, emptying trash, restocking items, and monitoring freezer alarms.
 
 
-### **Data Analyst Intern**  
-**Data Analytics Co.** *(2020 - 2021)*  
-- Analyzed customer behavior trends, increasing retention by 15%.  
-- Created interactive dashboards for real-time business monitoring.  
+ 
 
 ---
 
