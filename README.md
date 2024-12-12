@@ -15,8 +15,8 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 
 ## Skills
 
-- **Programming:** Python, R, JavaScript
-- **Machine Learning:** scikit-learn, TensorFlow, PyTorch
+- **Programming:** Limited Classroom experience with Python, Classroom project experience with HTML, CSS, Javascript, Bootstrap framework, Node.js framework, Express.js framework, AWS, PostgreSQL and pgAdmin.
+- **Other Learning:** Some basic knowledge of DNS, Encrypted DNS, and Machine Learning
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
 - **Tools:** Git, Docker, Kubernetes
 - **Soft Skills:** Leadership, Team Collaboration, Problem Solving
