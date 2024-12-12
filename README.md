@@ -17,8 +17,6 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 
 - **Programming:** Limited Classroom experience with Python, Classroom project experience with HTML, CSS, Javascript, Bootstrap framework, Node.js framework, Express.js framework, AWS, PostgreSQL and pgAdmin.
 - **Other Learning:** Some basic knowledge of DNS, Encrypted DNS, and Machine Learning
-- **Data Visualization:** Matplotlib, Seaborn, Tableau
-- **Tools:** Git, Docker, Kubernetes
 - **Soft Skills:** Leadership, Team Collaboration, Problem Solving
 
 ---
@@ -50,8 +48,8 @@ Example State University *(2014 - 2018)*
 
 ## Projects
 
-- **[Awesome Project](https://github.com/johndoe/awesome-project):** Built a recommendation system with collaborative filtering.  
-- **[Another Cool Project](https://github.com/johndoe/cool-project):** Developed an interactive web app using Flask and React.  
+- **[Cybersecurity Projects](https://github.com/johndoe/awesome-project):** Cybersecurity projects Developed in class and at home.  
+- **[Software Development Projects](https://github.com/johndoe/cool-project):** General projects developed in class and at home.  
 
 ---
 
