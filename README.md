@@ -68,12 +68,6 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 
 ## Education
 
-**Master of Science in Data Science**  
-University of Example *(2018 - 2020)*  
-
-**Bachelor of Science in Computer Science**  
-Example State University *(2014 - 2018)*  
-
 ### **Education:** 
 - University of Michigan-Flint		Flint, MI		Expected Graduation Fall 2026
 - Bachelor of Science in Cyber Security			Current GPA:  3.44
