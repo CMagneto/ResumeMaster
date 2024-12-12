@@ -1,7 +1,7 @@
 # ResumeMaster
 # Damon Campbell
 
-_Aspiring Cybersecurity expert| Python Developer | Open Source Enthusiast_
+_Aspiring Cybersecurity expert| Aspiring Python Developer | _
 
 [Email](mailto:damaca@umich.edu) | [Portfolio](https://github.com/CMagneto) | [LinkedIn](https://github.com/CMagneto) | [GitHub](https://github.com/CMagneto)
 
