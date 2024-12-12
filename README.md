@@ -33,8 +33,8 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 ### **Self-Employed Independent Contract Delivery Driver**
 - 3/2023-Present
 - Driver for DoorDash, Uber Eats, Shipt, and Instacart
-- ●	Completed over 3975 deliveries for DoorDash.
-- ●	Completed over 962 deliveries for Uber Eats.
+- ●	Completed over 4055 deliveries for DoorDash.
+- ●	Completed over 997 deliveries for Uber Eats.
 - ●	Completed 15 deliveries for Shipt.
 - ●	Completed 30 deliveries for Instacart.
 - ●	Often serves as the first point of contact to deal with problems the customer or vendor may be having getting their order fulfilled and tasked with finding the best solution to ensure the successful completion of the delivery to the end customer.
