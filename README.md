@@ -35,7 +35,19 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 - ●	Helped to research and develop potential methodologies for analyzing both unencrypted and encrypted DNS traffic, encrypted primarily with DNS over HTTPS, and DNS over TLS, for presentation to a corporation and potential implementation for the purpose of web content filtering.
 - ●	Learning about the Domain Name System, Transport Layer Security, Artificial Intelligence in reference to machine learning, the basic structure of neural networks, deep learning, and cryptography in the form of asymmetric key cryptography with the project’s focus on monitoring Encrypted DNS traffic.
 
+### **Self-Employed Independent Contract Delivery Driver**
+- 3/2023-Present
+- Driver for DoorDash, Uber Eats, Shipt, and Instacart
+- ●	Completed over 3975 deliveries for DoorDash.
+- ●	Completed over 962 deliveries for Uber Eats.
+- ●	Completed 15 deliveries for Shipt.
+- ●	Completed 30 deliveries for Instacart.
+- ●	Often serves as the first point of contact to deal with problems the customer or vendor may be having getting their order fulfilled and tasked with finding the best solution to ensure the successful completion of the delivery to the end customer.
+- ●	Maintains a budget and manages resources with ever changing costs such as gas, regular vehicle maintenance, and emergencies.
+- ●	Develops own work schedule and sets hourly and daily financial goals.
+- ●	Focuses on creating a positive experience for users of the delivery apps, restaurants, and store vendors by providing excellent customer service and troubleshooting app problems such as GPS address problems or incorrect orders.
  
+
 
 ### **Data Analyst Intern**  
 **Data Analytics Co.** *(2020 - 2021)*  
