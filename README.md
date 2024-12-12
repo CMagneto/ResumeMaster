@@ -27,7 +27,15 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 **Tech Solutions Inc.** *(2021 - Present)*  
 - Developed predictive models that increased sales forecasting accuracy by 25%.  
 - Automated ETL pipelines to streamline data processing, reducing manual work by 40%.  
-- Presented data-driven insights to stakeholders, improving decision-making efficiency.  
+- Presented data-driven insights to stakeholders, improving decision-making efficiency.
+
+### **Undergraduate Research Assistant in UROP program at the University of Michigan- Flint**
+- July 2024- August 2024 and September 2024 to current
+- ●	Worked for Dr. Khalid Malik for the project Multimodal and Neuro Symbolic AI for Web Filtering.
+- ●	Helped to research and develop potential methodologies for analyzing both unencrypted and encrypted DNS traffic, encrypted primarily with DNS over HTTPS, and DNS over TLS, for presentation to a corporation and potential implementation for the purpose of web content filtering.
+- ●	Learning about the Domain Name System, Transport Layer Security, Artificial Intelligence in reference to machine learning, the basic structure of neural networks, deep learning, and cryptography in the form of asymmetric key cryptography with the project’s focus on monitoring Encrypted DNS traffic.
+
+ 
 
 ### **Data Analyst Intern**  
 **Data Analytics Co.** *(2020 - 2021)*  
@@ -62,6 +70,6 @@ Example State University *(2014 - 2018)*
 
 ## Interests
 
-- Open Source Contributions  
-- Blogging about Machine Learning  
-- Hiking and Photography  
+- DNS  
+- Machine Learning  
+    
