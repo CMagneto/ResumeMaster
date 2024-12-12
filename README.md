@@ -82,7 +82,7 @@ Current University of Michigan- Flint Cybersecurity student seeking part or full
 
 ## Projects
 
-- **[Cybersecurity Projects](https://github.com/johndoe/awesome-project):** Cybersecurity projects Developed in class and at home.  
+- **[Cybersecurity Projects](https://github.com/CMagneto/CybersecurityProjects):** Cybersecurity projects Developed in class and at home.  
 - **[Software Development Projects](https://github.com/CMagneto/SoftwareDevelopmentProjects):** General projects developed in class and at home.  
 
 ---
