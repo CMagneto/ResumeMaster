@@ -3,13 +3,13 @@
 
 _Aspiring Cybersecurity expert| Python Developer | Open Source Enthusiast_
 
-[Email](mailto:damaca@umich.edu) | [Portfolio](https://johndoe.com) | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/CMagneto)
+[Email](mailto:damaca@umich.edu) | [Portfolio](https://github.com/CMagneto) | [LinkedIn](https://github.com/CMagneto) | [GitHub](https://github.com/CMagneto)
 
 ---
 
 ## Summary
 
-Passionate data scientist with 3+ years of experience in predictive modeling, data processing, and machine learning. Adept at translating business requirements into actionable insights.
+Current University of Michigan- Flint Cybersecurity student seeking part or full time entry level help desk position or other employment opportunities such as internships who is interested in learning to develop and apply AI, Machine Learning and Deep Learning technologies to various cybersecurity and other topics.
 
 ---
 
