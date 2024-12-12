@@ -3,7 +3,7 @@
 
 _Aspiring Cybersecurity expert| Python Developer | Open Source Enthusiast_
 
-[Email](mailto:damaca@umich.edu) | [Portfolio](https://johndoe.com) | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe)
+[Email](mailto:damaca@umich.edu) | [Portfolio](https://johndoe.com) | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/CMagneto)
 
 ---
 
